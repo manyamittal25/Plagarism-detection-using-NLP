@@ -2,9 +2,8 @@
 
 An interactive web application built with Streamlit to analyze text documents for plagiarism. It leverages Natural Language Processing (NLP) models to calculate similarity scores and presents the results in a user-friendly dashboard with interactive charts and key statistics.
 
-![Dashboard Screenshot](https://i.imgur.com/nJ6K8yv.png)
-
-*(**Note to author:** You can replace the image link above with a fresh screenshot of your running application. Just drag and drop an image into the GitHub editor when editing this README to upload it and generate a new link.)*
+deployed link on streamlit
+https://barshal-horse-plagarism-detection-using-nlp-app-tffzgg.streamlit.app/
 
 ---
 
